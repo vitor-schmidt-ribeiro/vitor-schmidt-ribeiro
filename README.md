@@ -32,7 +32,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt=".NET"
     title=".NET"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"
 />
 <img
@@ -40,7 +40,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="MySQL"
     title="MySQL"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 <img
@@ -48,7 +48,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/html5/original.svg"
 />
 <img
@@ -56,7 +56,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="CSS"
     title="CSS"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/css3/original.svg"
 />
 <img
@@ -64,7 +64,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="JavaScript"
     title="JavaScript"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/javascript/original.svg"
 />
 <img
@@ -72,24 +72,8 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="Bootstrap"
     title="Bootstrap"
     width="30px"
-    style="padding-right: 10 px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/bootstrap/original.svg"
-/>
-<img
-    align="left"
-    alt=""
-    title=""
-    width="30px"
-    style="padding-right: 10 px;"
-    src=""
-/>
-<img
-    align="left"
-    alt=""
-    title=""
-    width="30px"
-    style="padding-right: 10 px;"
-    src=""
 />
 
 <br/>
