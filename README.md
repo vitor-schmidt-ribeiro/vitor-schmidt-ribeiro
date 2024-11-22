@@ -24,7 +24,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt="C#"
     title="C#"
     width="30px"
-    style="padding-right: 5px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/csharp/original.svg"
 />
 <img
@@ -32,7 +32,7 @@ Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em dese
     alt=".NET"
     title=".NET"
     width="30px"
-    style="padding-right: 5px;"
+    style="padding-right: 5 px;"
     src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"
 />
 <img
