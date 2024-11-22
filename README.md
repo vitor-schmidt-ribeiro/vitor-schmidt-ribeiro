@@ -100,11 +100,11 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=vitor-schmidt-ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
+<br>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-schmidt-ribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
