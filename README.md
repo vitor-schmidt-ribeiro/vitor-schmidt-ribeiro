@@ -2,8 +2,7 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais.<br>
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
+Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas.<br>
 Sou um entusiasta do desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em desenvolvimento back-end!
 
 <div>
