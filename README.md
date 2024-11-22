@@ -7,7 +7,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas.<
 Amo desenvolver softwares e estou focado em aprimorar minhas habilidades em desenvolvimento back-end!
 
 <div>
-    <a href="https://www.linkedin.com/in/vitor-schmidt-ribeiro/" target="_blank""><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="padding-right: 10 px"> 
+    <a href="https://www.linkedin.com/in/vitor-schmidt-ribeiro/" target="_blank""><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="padding-right: 150 px"> 
     </a>
     <a href="https://www.instagram.com/vitorschmidt_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
     </a>
