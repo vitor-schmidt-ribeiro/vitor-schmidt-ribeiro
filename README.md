@@ -5,9 +5,12 @@
 Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas. Sou um entusiasta do desenvolvimento de software, atualmente focado em aprimorar minhas habilidades em desenvolvimento back-end!
 
 <div>
-<a href="https://www.linkedin.com/in/vitor-schmidt-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/vitorschmidt_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vitor.schmidt.ribeiro.vsr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+    <a href="https://www.linkedin.com/in/vitor-schmidt-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/vitorschmidt_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:vitor.schmidt.ribeiro.vsr@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
 </div>
 
 ---
@@ -93,18 +96,20 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=vitor-schmidt-ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<br>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="180" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-schmidt-ribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        style="padding-right: 10px;" 
+        src="https://github-readme-stats.vercel.app/api?username=vitor-schmidt-ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+</p>
+
+<p style="margin-top: 240px">
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="184" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-schmidt-ribeiro&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
 </p>
