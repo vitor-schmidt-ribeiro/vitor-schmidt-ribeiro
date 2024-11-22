@@ -22,7 +22,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="C#"
     title="C#"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/csharp/original.svg"
 />
 <img
@@ -30,7 +30,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt=".NET"
     title=".NET"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/dotnetcore/original.svg"
 />
 <img
@@ -38,7 +38,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="MySQL"
     title="MySQL"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/mysql/original.svg"
 />
 <img
@@ -46,7 +46,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="HTML"
     title="HTML"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/html5/original.svg"
 />
 <img
@@ -54,7 +54,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="CSS"
     title="CSS"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/css3/original.svg"
 />
 <img
@@ -62,7 +62,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="JavaScript"
     title="JavaScript"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/javascript/original.svg"
 />
 <img
@@ -70,7 +70,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt="Bootstrap"
     title="Bootstrap"
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src="https://devicon-website.vercel.app/api/bootstrap/original.svg"
 />
 <img
@@ -78,7 +78,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt=""
     title=""
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src=""
 />
 <img
@@ -86,7 +86,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     alt=""
     title=""
     width="30px"
-    style="padding-right: 10px;"
+    style="padding-right: 10 px;"
     src=""
 />
 
@@ -100,12 +100,12 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        style="padding-right: 10px;" 
+        style="padding-right: 10 px;" 
         src="https://github-readme-stats.vercel.app/api?username=vitor-schmidt-ribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
 </p>
 
-<p style="margin-top: 240px">
+<p style="margin-top: 240 px">
     <img 
         align="left" 
         alt="GitHub Stats" 
