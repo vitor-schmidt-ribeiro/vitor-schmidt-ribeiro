@@ -105,7 +105,7 @@ Me chamo Vitor Schmidt Ribeiro, tenho 19 anos e sou natural de Minas Gerais. Atu
     />
 </p>
 
-<p style="margin-top: 580px">
+<p style="margin-top: 480px">
     <img 
         align="left" 
         alt="GitHub Stats" 
